@@ -19,6 +19,7 @@ npm run build
  接口文档 ： https://apizza.net/pro/#/project/14fa6a9c4a45468acf235da89ee8e1be/browse?pass=a511db3cf920386c952dd6bdfbcf42fd
 
 ## 技术栈：vue、vuex、vue-router、axios、async/await、vant、高德地图
+使用vue2搭建项目 vant框架
 商城主要实现的功能
 - 首页、专题、分类、购物车、我的
 - - 首页包含品牌制造页、品牌制造详情页面、新品首发页面、人气推荐页面、各分类列表
